@@ -1,175 +1,275 @@
 { "type": "FeatureCollection",
   "features": [
   { "type": "Feature",
-    "properties": {"name": "00.00"},
+    "properties": {
+      "name": "00.00",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/00.00.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/00.00.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.74608, 43.31633], [-80.52495, 43.31633], [-80.52495, 43.42138], [-80.74608, 43.42138], [-80.74608, 43.31633]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "00.01"},
+    "properties": {
+      "name": "00.01",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/00.01.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/00.01.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.76654, 43.42138], [-80.52495, 43.42138], [-80.52495, 43.44222], [-80.76654, 43.44222], [-80.76654, 43.42138]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "00.02"},
+    "properties": {
+      "name": "00.02",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/00.02.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/00.02.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.78908, 43.44222], [-80.52495, 43.44222], [-80.52495, 43.46390], [-80.78908, 43.46390], [-80.78908, 43.44222]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "00.03"},
+    "properties": {
+      "name": "00.03",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/00.03.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/00.03.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.83728, 43.46390], [-80.52496, 43.46390], [-80.52496, 43.48927], [-80.83728, 43.48927], [-80.83728, 43.46390]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "00.04"},
+    "properties": {
+      "name": "00.04",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/00.04.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/00.04.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.86431, 43.48927], [-80.52498, 43.48927], [-80.52498, 43.68807], [-80.86431, 43.68807], [-80.86431, 43.48927]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "01.00"},
+    "properties": {
+      "name": "01.00",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/01.00.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/01.00.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.52494, 43.32275], [-80.48994, 43.32275], [-80.48994, 43.41454], [-80.52494, 43.41454], [-80.52494, 43.32275]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "01.01"},
+    "properties": {
+      "name": "01.01",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/01.01.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/01.01.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.52494, 43.41454], [-80.48994, 43.41454], [-80.48994, 43.43599], [-80.52494, 43.43599], [-80.52494, 43.41454]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "01.02"},
+    "properties": {
+      "name": "01.02",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/01.02.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/01.02.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.52493, 43.43599], [-80.48994, 43.43599], [-80.48994, 43.45031], [-80.52493, 43.45031], [-80.52493, 43.43599]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "01.03"},
+    "properties": {
+      "name": "01.03",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/01.03.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/01.03.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.52495, 43.45031], [-80.48994, 43.45031], [-80.48994, 43.46930], [-80.52495, 43.46930], [-80.52495, 43.45031]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "01.04"},
+    "properties": {
+      "name": "01.04",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/01.04.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/01.04.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.52495, 43.46930], [-80.48995, 43.46930], [-80.48995, 43.66072], [-80.52495, 43.66072], [-80.52495, 43.46930]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "02.00"},
+    "properties": {
+      "name": "02.00",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/02.00.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/02.00.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.48993, 43.27032], [-80.44374, 43.27032], [-80.44374, 43.39905], [-80.48993, 43.39905], [-80.48993, 43.27032]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "02.01"},
+    "properties": {
+      "name": "02.01",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/02.01.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/02.01.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.48993, 43.39905], [-80.44377, 43.39905], [-80.44377, 43.42378], [-80.48993, 43.42378], [-80.48993, 43.39905]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "02.02"},
+    "properties": {
+      "name": "02.02",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/02.02.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/02.02.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.48993, 43.42378], [-80.44374, 43.42378], [-80.44374, 43.44399], [-80.48993, 43.44399], [-80.48993, 43.42378]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "02.03"},
+    "properties": {
+      "name": "02.03",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/02.03.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/02.03.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.48994, 43.44399], [-80.44374, 43.44399], [-80.44374, 43.45831], [-80.48994, 43.45831], [-80.48994, 43.44399]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "02.04"},
+    "properties": {
+      "name": "02.04",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/02.04.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/02.04.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.48994, 43.45831], [-80.44374, 43.45831], [-80.44374, 43.63355], [-80.48994, 43.63355], [-80.48994, 43.45831]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "03.00"},
+    "properties": {
+      "name": "03.00",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/03.00.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/03.00.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.44373, 43.27275], [-80.33248, 43.27275], [-80.33248, 43.38404], [-80.44373, 43.38404], [-80.44373, 43.27275]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "03.01"},
+    "properties": {
+      "name": "03.01",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/03.01.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/03.01.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.44373, 43.38404], [-80.33260, 43.38404], [-80.33260, 43.39799], [-80.44373, 43.39799], [-80.44373, 43.38404]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "03.02"},
+    "properties": {
+      "name": "03.02",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/03.02.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/03.02.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.44373, 43.39799], [-80.33250, 43.39799], [-80.33250, 43.42561], [-80.44373, 43.42561], [-80.44373, 43.39799]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "03.03"},
+    "properties": {
+      "name": "03.03",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/03.03.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/03.03.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.44373, 43.42561], [-80.33255, 43.42561], [-80.33255, 43.44879], [-80.44373, 43.44879], [-80.44373, 43.42561]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "03.04"},
+    "properties": {
+      "name": "03.04",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/03.04.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/03.04.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.44374, 43.44879], [-80.33254, 43.44879], [-80.33254, 43.60130], [-80.44374, 43.60130], [-80.44374, 43.44879]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "04.00"},
+    "properties": {
+      "name": "04.00",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/04.00.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/04.00.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.33247, 43.28880], [-80.19480, 43.28880], [-80.19480, 43.34935], [-80.33247, 43.34935], [-80.33247, 43.28880]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "04.01"},
+    "properties": {
+      "name": "04.01",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/04.01.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/04.01.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.33248, 43.34935], [-80.19274, 43.34935], [-80.19274, 43.36524], [-80.33248, 43.36524], [-80.33248, 43.34935]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "04.02"},
+    "properties": {
+      "name": "04.02",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/04.02.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/04.02.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.33248, 43.36525], [-80.19974, 43.36525], [-80.19974, 43.38643], [-80.33248, 43.38643], [-80.33248, 43.36525]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "04.03"},
+    "properties": {
+      "name": "04.03",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/04.03.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/04.03.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.33248, 43.38643], [-80.20376, 43.38643], [-80.20376, 43.42271], [-80.33248, 43.42271], [-80.33248, 43.38643]]]
     }
   },
   { "type": "Feature",
-    "properties": {"name": "04.04"},
+    "properties": {
+      "name": "04.04",
+      "github_url": "https://github.com/jtracey/WaterlooRegionAddresses/blob/main/slices/04.04.geojson",
+      "raw_url": "https://github.com/jtracey/WaterlooRegionAddresses/raw/main/slices/04.04.geojson"
+    },
     "geometry": {
       "type": "Polygon",
       "coordinates": [[[-80.33241, 43.42271], [-80.28472, 43.42271], [-80.28472, 43.48763], [-80.33241, 43.48763], [-80.33241, 43.42271]]]
