@@ -1,0 +1,28 @@
+    Contains information licensed under the Open Government Licence – Canada.
+    https://open.canada.ca/en/open-government-licence-canada
+
+Unlike the repository it is hosted in, all files in this directory are provided under the terms of the Open Government License - Canada (OGL Canada). The data is obtained from The Open Database of Addresses (ODA), which can be found at:
+https://www.statcan.gc.ca/eng/lode/databases/oda
+
+The data provided here is also copyright of its respective source in the ODA. While the data here is provided under the terms of the OGL Canada by Statistics Canada, for completion's sake, the following are the sources of the respective included data, and their corresponding licenses, according to Statistics Canada:
+
+Data Provider: City of Cambridge
+Link to Dataset: https://www.statcan.gc.ca/eng/lode/databases/oda
+Link to Data Licence: https://maps.cambridge.ca/images/opendata/Open%20data%20licence.pdf
+License Title: Open Government Licence - City of Cambridge
+License Version: 2
+Attribution statement: Contains information licensed under the Open Government Licence - City of Cambridge.
+
+Data Provider: The Corporation of the City of Kitchener
+Link to Dataset: https://open-kitchenergis.opendata.arcgis.com/datasets/98e0a9aa3f8e447380f27fdc1c170d02_0
+Link to Data License: https://open-kitchenergis.opendata.arcgis.com/datasets/98e0a9aa3f8e447380f27fdc1c170d02_0
+License Title: Open Government Licence - The Corporation of the City of Kitchener
+License Version: 1
+Attribution statement: Contains information licensed under the Open Government Licence - The Corporation of the City of Kitchener.
+
+Data Provider: Region of Waterloo
+Link to Dataset: https://rowopendata-rmw.opendata.arcgis.com/datasets/addresses
+Link to Data License: https://www.regionofwaterloo.ca/en/regional-government/open-data.aspx
+License Title: Region of Waterloo Open Data Licence v.2.0
+License Version: 2
+Attribution statement: Contains information provided by the Regional Municipality of Waterloo under licence
