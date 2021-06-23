@@ -1,5 +1,5 @@
 # WaterlooRegionAddresses
-Scripts for generating smaller, more manageable address data from the [StatCan ODA](https://www.statcan.gc.ca/eng/lode/databases/oda), targeted at the Region of Waterloo.
+Smaller, more manageable address data from the [StatCan ODA](https://www.statcan.gc.ca/eng/lode/databases/oda), and the scripts to generate them, targeted at the Region of Waterloo.
 
 ## What is the StatCan ODA?
 Statistics Canada has released a collection of address data from across the country called The Open Database of Addresses, or ODA for short. All of this data was nominally publicly available before, but from various sources, under different licenses. This made it more difficult to find, and more difficult to have legal assurance that it could be collated into other projects. Notably, the license the ODA is released under (the [OGL Canada](https://open.canada.ca/en/open-government-licence-canada)) is one of the licenses that have been [approved by the legal working group](https://wiki.osmfoundation.org/wiki/OGL_Canada_and_local_variants) for integration into [OpenStreetMap](https://www.openstreetmap.org/).
